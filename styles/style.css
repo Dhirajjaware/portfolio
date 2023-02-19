@@ -1,0 +1,110 @@
+.top{
+
+    background-color: #2e9a9a;
+
+width: 100%px;
+position:relative;
+padding-top: 100px;
+
+}
+h1{
+margin: 0 auto 0 auto ;
+font-family: 'Sacramento', cursive;                             
+font-size: 5.625rem;
+color: #66bfbf;
+}
+.paragraph{
+    color: #66bfbf;
+    font-weight: normal;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+
+  
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;    
+}
+a{
+    color: #11999e;
+}
+
+span{
+    text-decoration: underline;
+}
+.bottomcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+   
+}
+.code{
+    width:25%;
+    border-radius:100%;
+
+
+
+}
+.chillies{
+    width:25%;
+    float: right;
+    
+
+}
+.clear{
+    display: inline;}
+
+
+/*
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    
+}
+.blue{
+    width: 100px;
+    height: 100px;
+background-color: blue;
+position: absolute;
+left: 100px;
+top: 100px;
+
+
+
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    
+}
+body{
+    margin: 0;
+
+}
